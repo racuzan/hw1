@@ -1,0 +1,37 @@
+html {
+    background-color: aqua;
+}
+.p1 {
+    font-size: 30px;
+    text-align: left;
+    background-color: chartreuse;
+}
+.h0{
+    text-align: center;
+    font-size: 45px;
+    color: blue;
+}
+
+.h1{
+    text-align: center;
+    font-size: 45px;
+}
+.p2
+{
+    text-align: left;
+    font-size: 30px;
+    background-color: deeppink;
+}
+.l1
+{
+    font-size: 25px;
+
+}
+.img {
+    height:60px ;
+    
+}
+.l2
+{
+    font-size: 30px;
+}
