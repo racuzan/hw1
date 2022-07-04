@@ -1,0 +1,92 @@
+body{
+    background: url(https://i.yapx.cc/GvA85.gif) no-repeat;
+    background-size: 100%;
+    
+}
+html body{
+    max-width: 1170px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 16px;
+    padding-right: 16px;
+}
+
+.menu{
+    display: inline-block;
+}
+
+
+.h1
+
+{
+    padding: 20px;
+    text-align: center;
+    margin-left: 50%;
+    margin-bottom: 22px;
+    border-radius: 22px;
+    background-color: aquamarine;
+    width: 233px;
+    height: 20px;
+    font-size: 30px;
+
+}
+
+.block0{
+    margin-top: -2px;
+    font-size: 30px;
+    margin-left: -370px;
+    padding: 25px;
+    width: 300px;
+    height: 600px;
+    color: rgb(0, 0, 0);
+    background-color: rgba(255, 255, 255, 0);
+    border-radius: 2px;
+}
+
+
+
+
+
+.block1{
+    margin-top: -610px;
+    font-size: 30px;
+    margin-left: 135px;
+    padding: 25px;
+    width: 500px;
+    height: 560px;
+    color: rgb(255, 255, 255);
+    background-color: rgba(0, 0, 0, 0.548);
+    border-radius: 22px;
+}
+
+    .block2{
+    
+    margin-top: -560px;
+    
+    font-size: 30px;
+    margin-left: 590px;
+    padding: 25px;
+    width: 500px;
+    height: 560px;
+    color: rgb(255, 255, 255);
+    background-color: rgba(0, 0, 0, 0.548);
+    border-radius: 22px;
+
+    }
+    .list
+    {
+        z-index: 2;
+    color: #fff;
+    background-color: #ee5c42;
+    border-color: #ee5c42;
+border-radius: 15px;
+}
+.list1{
+position: relative;
+    display: block;
+    padding: 0.75rem 1.25rem;
+    margin-bottom: -1px;
+    background-color: #fff;
+    border: 1px solid rgba(0,0,0,0.125);
+    border-radius: 22px;
+}
