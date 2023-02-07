@@ -1,0 +1,20 @@
+body {
+    height: 200px;
+    background: #000;
+}
+
+.circle{
+
+    height: 20px;width: 20px;
+    border-radius: 50px;
+    background: #685757;
+    border: 2px solid red;
+    position: absolute;
+}
+
+.circle1{
+
+position: absolute;
+background-color: #fff;
+
+}
